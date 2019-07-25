@@ -1,3 +1,0 @@
-function getplaylists() {
-    return null;
-}
